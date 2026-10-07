@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #290cce;
+}
+h1 {
+    color: #1537bd;
+}
+p {
+    font-size: 20px;
+}
+.description {
+    color: #d6c7c7;
+    font-size: 22px;
+}
+.profile-card {
+    background: red;
+    padding: 25px;
+    margin: 100px auto;
+    max-width: 1000px;
+}
+button {
+    background: blue;
+    color: white;
+    padding:10px 20px;
+    border: none;
+    cursor: pointer;
+}
